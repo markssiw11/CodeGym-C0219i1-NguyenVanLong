@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51b8887d-1057-4fce-97ff-16ab395fd1d3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/CodeGym-Long.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/01.JavaOverView/.idea/01.JavaOverView.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/01.JavaOverView/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/01.JavaOverView/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/01.JavaOverView/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/01.JavaOverView/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/01.JavaOverView/Student/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/01.JavaOverView/Student/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/01.JavaOverView/Student/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/01.JavaOverView/Student/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/01.JavaOverView/Student/Student.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/01.JavaOverView/Student/out/production/Student/ConvertMoney.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/01.JavaOverView/Student/out/production/Student/DateOffMonth.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/01.JavaOverView/Student/out/production/Student/Hello.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/01.JavaOverView/Student/out/production/Student/IsLeapYear.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/01.JavaOverView/Student/out/production/Student/IsPrime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/01.JavaOverView/Student/out/production/Student/LinearEquationResolver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/01.JavaOverView/Student/out/production/Student/RestangleProgram.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/01.JavaOverView/Student/out/production/Student/ShowTypes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/01.JavaOverView/Student/out/production/Student/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/01.JavaOverView/Student/out/production/Student/TurnTheNumberIntoLetters.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/01.JavaOverView/Student/out/production/Student/bmi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/01.JavaOverView/Student/out/production/Student/displayOnehundredFirstPrime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/01.JavaOverView/Student/out/production/Student/displayPrime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/01.JavaOverView/Student/out/production/Student/greatestComomFactor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/01.JavaOverView/Student/out/production/Student/menuDesign.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/01.JavaOverView/Student/src/ConvertMoney.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/01.JavaOverView/Student/src/DateOffMonth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/01.JavaOverView/Student/src/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/01.JavaOverView/Student/src/IsLeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/01.JavaOverView/Student/src/IsPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/01.JavaOverView/Student/src/LinearEquationResolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/01.JavaOverView/Student/src/RestangleProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/01.JavaOverView/Student/src/ShowTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/01.JavaOverView/Student/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/01.JavaOverView/Student/src/TurnTheNumberIntoLetters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/01.JavaOverView/Student/src/bmi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/01.JavaOverView/Student/src/displayOnehundredFirstPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/01.JavaOverView/Student/src/displayPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/01.JavaOverView/Student/src/greatestComomFactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/01.JavaOverView/Student/src/menuDesign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/01.JavaOverView/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/02.ArraysAndMethod/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/02.ArraysAndMethod/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/02.ArraysAndMethod/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/02.ArraysAndMethod/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/02.ArraysAndMethod/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/02.ArraysAndMethod/02.ArraysAndMethod.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/02.ArraysAndMethod/out/production/02.ArraysAndMethod/AddElementToArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/02.ArraysAndMethod/out/production/02.ArraysAndMethod/CoutCharacterOffArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/02.ArraysAndMethod/out/production/02.ArraysAndMethod/CoutNumbpassAtExam.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/02.ArraysAndMethod/out/production/02.ArraysAndMethod/FindIndexOfArrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/02.ArraysAndMethod/out/production/02.ArraysAndMethod/FindMaxIndexOffMatrix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/02.ArraysAndMethod/out/production/02.ArraysAndMethod/FindMaxValueOfArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/02.ArraysAndMethod/out/production/02.ArraysAndMethod/FindMindIndexOfArrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/02.ArraysAndMethod/out/production/02.ArraysAndMethod/FindMindValueOffArrayTwo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/02.ArraysAndMethod/out/production/02.ArraysAndMethod/META-INF/02.ArraysAndMethod.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/02.ArraysAndMethod/out/production/02.ArraysAndMethod/PoolingArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/02.ArraysAndMethod/out/production/02.ArraysAndMethod/RemoveIndexOffArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/02.ArraysAndMethod/out/production/02.ArraysAndMethod/ReverseOfArrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/02.ArraysAndMethod/out/production/02.ArraysAndMethod/SumDiagonalLineOffMatrix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/02.ArraysAndMethod/out/production/02.ArraysAndMethod/SumOfColumnDetifine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/02.ArraysAndMethod/out/production/02.ArraysAndMethod/TemperatureConvert.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/02.ArraysAndMethod/src/AddElementToArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/02.ArraysAndMethod/src/CoutCharacterOffArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/02.ArraysAndMethod/src/CoutNumbpassAtExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/02.ArraysAndMethod/src/FindIndexOfArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/02.ArraysAndMethod/src/FindMaxIndexOffMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/02.ArraysAndMethod/src/FindMaxValueOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/02.ArraysAndMethod/src/FindMindIndexOfArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/02.ArraysAndMethod/src/FindMindValueOffArrayTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/02.ArraysAndMethod/src/PoolingArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/02.ArraysAndMethod/src/RemoveIndexOffArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/02.ArraysAndMethod/src/ReverseOfArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/02.ArraysAndMethod/src/SumDiagonalLineOffMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/02.ArraysAndMethod/src/SumOfColumnDetifine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/02.ArraysAndMethod/src/TemperatureConvert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/SystemTime/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/SystemTime/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/SystemTime/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/SystemTime/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/SystemTime/SystemTime.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/SystemTime/out/production/SystemTime/systemTime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.WebBack-endDevelopment/SystemTime/src/systemTime.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51b8887d-1057-4fce-97ff-16ab395fd1d3" name="Default Changelist" comment="" />
+      <created>1551060108111</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551060108111</updated>
+      <workItem from="1551060109972" duration="516000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="516000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="68" y="20" width="1400" height="784" extended-state="0" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3297546" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
