@@ -1,18 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51b8887d-1057-4fce-97ff-16ab395fd1d3" name="Default Changelist" comment="" />
+    <list default="true" id="95f31c44-9bd0-447d-83d0-7bff0e33d421" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../02.ArraysAndMethod/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../03.Oop/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../03.Oop/src/Fan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../03.Oop/src/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../03.Oop/src/QuadraticEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../03.Oop/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../03.Oop/src/StopWatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CircleAndCylinder/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CircleAndCylinder/src/Operation2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CircleAndCylinder/src/circle/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CircleAndCylinder/src/circle/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeometricObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RectangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShapeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SquareTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../02.ArraysAndMethod/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../02.ArraysAndMethod/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf />
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="85" />
@@ -26,30 +47,25 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="CodeGym-Long" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeGym-Long" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CodeGym-Long" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeGym-Long" type="462c0819:PsiDirectoryNode" />
-              <item name="02.WebBack-endDevelopment" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -70,17 +86,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="51b8887d-1057-4fce-97ff-16ab395fd1d3" name="Default Changelist" comment="" />
-      <created>1551060108111</created>
+      <changelist id="95f31c44-9bd0-447d-83d0-7bff0e33d421" name="Default Changelist" comment="" />
+      <created>1551252489440</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1551060108111</updated>
-      <workItem from="1551060109972" duration="1321000" />
+      <updated>1551252489440</updated>
+      <workItem from="1551252490940" duration="25000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1321000" />
+    <option name="totallyTimeSpent" value="25000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="68" y="20" width="1400" height="784" extended-state="0" />
@@ -95,7 +111,7 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3297546" />
+      <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -117,10 +133,5 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/02.WebBack-endDevelopment/02.ArraysAndMethod/src/TemperatureConvert.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
   </component>
 </project>
