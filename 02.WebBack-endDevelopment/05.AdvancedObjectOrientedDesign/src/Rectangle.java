@@ -1,4 +1,4 @@
-public class Rectangle extends Shape implements Resizeable{
+public class Rectangle extends Shape{
     private double width;
     private double length;
     public  Rectangle() {
@@ -36,19 +36,9 @@ public class Rectangle extends Shape implements Resizeable{
         return "A restangle with width: "
                 +width
                 +" length: " + length
-                + " which is a supclass of "
-                + super.toString();
+                + " which is a supclass of ";
+                //+ super.toString();
     }
 
-    @Override
-    public void resize(double percent) {
-        this.width=this.width*percent;
-        this.length=this.length*percent;
-    }
 
-    @Override
-    public void resizeRandom() {
-        this.setWidth(this.width*Math.random()*100);
-        this.setLength(this.length*Math.random()*100);
-    }
 }
