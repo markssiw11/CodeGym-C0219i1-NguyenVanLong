@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="848bc598-ab66-4871-acdd-3b41a1d8ceb3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../06.DataStructure/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../06.DataStructure/src/DemoDataStructure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../06.DataStructure/src/HashSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../06.DataStructure/src/StopWatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../06.DataStructure/src/TreeSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../06.DataStructure/src/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SimpleLogin/src/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../list-customer/src/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-calculator/src/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TennisGame/src/TennisGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../simple_login/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../simple_login/web/loginSuccess.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/.idea/01.JavaOverView.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/Student.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/out/production/Student/ConvertMoney.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/out/production/Student/DateOffMonth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/out/production/Student/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/out/production/Student/IsLeapYear.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/out/production/Student/IsPrime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/out/production/Student/LinearEquationResolver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/out/production/Student/RestangleProgram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/out/production/Student/ShowTypes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/out/production/Student/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/out/production/Student/TurnTheNumberIntoLetters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/out/production/Student/bmi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/out/production/Student/displayOnehundredFirstPrime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/out/production/Student/displayPrime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/out/production/Student/greatestComomFactor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/out/production/Student/menuDesign.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/src/ConvertMoney.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/src/DateOffMonth.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/src/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/src/IsLeapYear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/src/IsPrime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/src/LinearEquationResolver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/src/RestangleProgram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/src/ShowTypes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/src/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/src/TurnTheNumberIntoLetters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/src/bmi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/src/displayOnehundredFirstPrime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/src/displayPrime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/src/greatestComomFactor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/src/menuDesign.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/index1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/02.ArraysAndMethod.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/out/production/02.ArraysAndMethod/AddElementToArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/out/production/02.ArraysAndMethod/CoutCharacterOffArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/out/production/02.ArraysAndMethod/CoutNumbpassAtExam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/out/production/02.ArraysAndMethod/FindIndexOfArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/out/production/02.ArraysAndMethod/FindMaxIndexOffMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/out/production/02.ArraysAndMethod/FindMaxValueOfArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/out/production/02.ArraysAndMethod/FindMindIndexOfArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/out/production/02.ArraysAndMethod/FindMindValueOffArrayTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/out/production/02.ArraysAndMethod/META-INF/02.ArraysAndMethod.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/out/production/02.ArraysAndMethod/PoolingArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/out/production/02.ArraysAndMethod/RemoveIndexOffArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/out/production/02.ArraysAndMethod/ReverseOfArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/out/production/02.ArraysAndMethod/SumDiagonalLineOffMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/out/production/02.ArraysAndMethod/SumOfColumnDetifine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/out/production/02.ArraysAndMethod/TemperatureConvert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/src/AddElementToArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/src/CoutCharacterOffArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/src/CoutNumbpassAtExam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/src/FindIndexOfArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/src/FindMaxIndexOffMatrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/src/FindMaxValueOfArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/src/FindMindIndexOfArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/src/FindMindValueOffArrayTwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/src/PoolingArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/src/RemoveIndexOffArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/src/ReverseOfArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/src/SumDiagonalLineOffMatrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/src/SumOfColumnDetifine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/src/TemperatureConvert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/03.Oop/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/03.Oop/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/03.Oop/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/03.Oop/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/03.Oop/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/03.Oop/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/03.Oop/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/03.Oop/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/03.Oop/03.Oop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/03.Oop/out/production/03.Oop/Fan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/03.Oop/out/production/03.Oop/META-INF/03.Oop.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/03.Oop/out/production/03.Oop/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/03.Oop/out/production/03.Oop/MyClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/03.Oop/out/production/03.Oop/QuadraticEquation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/03.Oop/out/production/03.Oop/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/03.Oop/out/production/03.Oop/StopWatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/03.Oop/src/Fan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/03.Oop/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/03.Oop/src/MyClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/03.Oop/src/QuadraticEquation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/03.Oop/src/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/03.Oop/src/StopWatch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/04.Inheritance.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/CircleAndCylinder/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/CircleAndCylinder/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/CircleAndCylinder/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/CircleAndCylinder/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/CircleAndCylinder/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/CircleAndCylinder/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/CircleAndCylinder/CircleAndCylinder.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/CircleAndCylinder/out/production/CircleAndCylinder/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/CircleAndCylinder/out/production/CircleAndCylinder/Cylinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/CircleAndCylinder/out/production/CircleAndCylinder/Operation2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/CircleAndCylinder/src/Operation2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/CircleAndCylinder/src/circle/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/CircleAndCylinder/src/circle/Cylinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/.idea/src.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/CircleComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/CircleComparatorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/CircleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/ComparableCircleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/ComparatorCircle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/Count.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/GeometricObjects.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/META-INF/04.Inheritance.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/Point/MoveablePoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/Point/Point2d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/Point/Point3d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/Point2/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/RectangleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/ResiableTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/Resizeable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/ShapeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/SquareTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/.idea/src.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/CircleComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/CircleComparatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/CircleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/ComparableCircleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/ComparatorCircle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/Count.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/GeometricObjects.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/Point/MoveablePoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/Point/Point2d.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/Point/Point3d.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/Point2/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/RectangleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/ResiableTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/Resizeable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/ShapeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/SquareTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/05.AdvancedObjectOrientedDesign.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/out/production/05.AdvancedObjectOrientedDesign/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/out/production/05.AdvancedObjectOrientedDesign/CircleComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/out/production/05.AdvancedObjectOrientedDesign/CircleComparatorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/out/production/05.AdvancedObjectOrientedDesign/Colorable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/out/production/05.AdvancedObjectOrientedDesign/ColorableTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/out/production/05.AdvancedObjectOrientedDesign/META-INF/05.AdvancedObjectOrientedDesign.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/out/production/05.AdvancedObjectOrientedDesign/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/out/production/05.AdvancedObjectOrientedDesign/Resizeable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/out/production/05.AdvancedObjectOrientedDesign/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/out/production/05.AdvancedObjectOrientedDesign/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/out/production/05.AdvancedObjectOrientedDesign/animal/AbstractAndInterfaceTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/out/production/05.AdvancedObjectOrientedDesign/animal/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/out/production/05.AdvancedObjectOrientedDesign/animal/Chicken.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/out/production/05.AdvancedObjectOrientedDesign/animal/Tiger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/out/production/05.AdvancedObjectOrientedDesign/edible/Apple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/out/production/05.AdvancedObjectOrientedDesign/edible/Edible.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/out/production/05.AdvancedObjectOrientedDesign/edible/Fruit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/out/production/05.AdvancedObjectOrientedDesign/edible/Orange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/src/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/src/CircleComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/src/CircleComparatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/src/Colorable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/src/ColorableTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/src/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/src/Resizeable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/src/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/src/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/src/animal/AbstractAndInterfaceTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/src/animal/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/src/animal/Chicken.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/src/animal/Tiger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/src/edible/Apple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/src/edible/Edible.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/src/edible/Fruit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/src/edible/Orange.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/SystemTime/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/SystemTime/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/SystemTime/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/SystemTime/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/SystemTime/SystemTime.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/SystemTime/out/production/SystemTime/systemTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/SystemTime/src/systemTime.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Dept.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="562">
+              <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#526#527#0" expanded="true" />
+                <element signature="e#563#564#0" expanded="true" />
+                <element signature="e#608#609#0" expanded="true" />
+                <element signature="e#652#653#0" expanded="true" />
+                <element signature="e#691#692#0" expanded="true" />
+                <element signature="e#730#731#0" expanded="true" />
+                <element signature="e#782#783#0" expanded="true" />
+                <element signature="e#830#831#0" expanded="true" />
+                <element signature="e#869#870#0" expanded="true" />
+                <element signature="e#908#909#0" expanded="true" />
+                <element signature="e#960#961#0" expanded="true" />
+                <element signature="e#1008#1009#0" expanded="true" />
+                <element signature="e#1050#1051#0" expanded="true" />
+                <element signature="e#1090#1091#0" expanded="true" />
+                <element signature="e#1146#1147#0" expanded="true" />
+                <element signature="e#1196#1197#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/DBUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#258#264#0" expanded="true" />
+                <element signature="e#2345#2346#0" expanded="true" />
+                <element signature="e#2387#2388#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Emp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Dept.java" />
+        <option value="$PROJECT_DIR$/src/Emp.java" />
+        <option value="$PROJECT_DIR$/src/DBUttils.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="jstl-example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jstl-example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jstl-example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jstl-example" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jstl-example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="jstl-example" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553143318742" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="848bc598-ab66-4871-acdd-3b41a1d8ceb3" name="Default Changelist" comment="" />
+      <created>1553133794642</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553133794642</updated>
+      <workItem from="1553133798646" duration="6847000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6847000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="68" y="20" width="1400" height="784" extended-state="0" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Emp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dept.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#526#527#0" expanded="true" />
+            <element signature="e#563#564#0" expanded="true" />
+            <element signature="e#608#609#0" expanded="true" />
+            <element signature="e#652#653#0" expanded="true" />
+            <element signature="e#691#692#0" expanded="true" />
+            <element signature="e#730#731#0" expanded="true" />
+            <element signature="e#782#783#0" expanded="true" />
+            <element signature="e#830#831#0" expanded="true" />
+            <element signature="e#869#870#0" expanded="true" />
+            <element signature="e#908#909#0" expanded="true" />
+            <element signature="e#960#961#0" expanded="true" />
+            <element signature="e#1008#1009#0" expanded="true" />
+            <element signature="e#1050#1051#0" expanded="true" />
+            <element signature="e#1090#1091#0" expanded="true" />
+            <element signature="e#1146#1147#0" expanded="true" />
+            <element signature="e#1196#1197#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DBUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#258#264#0" expanded="true" />
+            <element signature="e#2345#2346#0" expanded="true" />
+            <element signature="e#2387#2388#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
