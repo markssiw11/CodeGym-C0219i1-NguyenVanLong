@@ -1,4 +1,5 @@
 package appdesign1.controller;
+
 import java.io.IOException;
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
@@ -6,13 +7,15 @@ import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
+
 import appdesign1.action.SaveProductAction;
 import appdesign1.form.ProductForm;
 import appdesign1.model.Product;
+
 import java.math.BigDecimal;
 
 @WebServlet(name = "ControllerServlet", urlPatterns = {
-        "/input-product", "/save-product" })
+        "/input-product", "/save-product"})
 public class ControllerServlet extends HttpServlet {
 
     private static final long serialVersionUID = 1579L;

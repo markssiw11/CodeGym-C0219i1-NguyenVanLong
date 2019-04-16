@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="spring-greeting:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="47f3c60d-1a0e-4861-a97c-820ba8d46181" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../pratice/.idea/artifacts/pratice_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pratice/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pratice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pratice/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pratice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pratice/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pratice/pratice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pratice/src/com/codegym/controller/CustomerServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pratice/src/com/codegym/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pratice/src/com/codegym/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pratice/src/com/codegym/service/CustomerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pratice/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pratice/web/customer/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pratice/web/customer/delete.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pratice/web/customer/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pratice/web/customer/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-manage/.idea/artifacts/product_manage_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-manage/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-manage/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-manage/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-manage/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-manage/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-manage/product-manage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-manage/src/controller/ProductServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-manage/src/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-manage/src/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-manage/src/service/ProductServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-manage/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-manage/web/product/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-manage/web/product/delete.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-manage/web/product/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-manage/web/product/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../product-manage/web/product/view.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring mvc/.idea/artifacts/spring_mvc_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring mvc/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring mvc/.idea/libraries/Spring_4_3_18_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring mvc/.idea/libraries/Spring_MVC_4_3_18_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring mvc/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring mvc/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring mvc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring mvc/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring mvc/spring mvc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring mvc/src/controllers/CurrencyConventerControllers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring mvc/web/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring mvc/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring mvc/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controllers/GreetingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc-intro1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc-intro1/web/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvc-intro1/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06.DataStructure/src/DemoDataStructure.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../06.DataStructure/src/DemoDataStructure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06.DataStructure/src/HashSetDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../06.DataStructure/src/HashSetDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06.DataStructure/src/StopWatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../06.DataStructure/src/StopWatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06.DataStructure/src/TreeSetDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../06.DataStructure/src/TreeSetDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06.DataStructure/src/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../06.DataStructure/src/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../11.WebApplicationOverView/list-customer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../11.WebApplicationOverView/list-customer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TennisGame/src/TennisGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../TennisGame/src/TennisGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/.idea/01.JavaOverView.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/Student.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/out/production/Student/ConvertMoney.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/out/production/Student/DateOffMonth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/out/production/Student/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/out/production/Student/IsLeapYear.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/out/production/Student/IsPrime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/out/production/Student/LinearEquationResolver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/out/production/Student/RestangleProgram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/out/production/Student/ShowTypes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/out/production/Student/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/out/production/Student/TurnTheNumberIntoLetters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/out/production/Student/bmi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/out/production/Student/displayOnehundredFirstPrime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/out/production/Student/displayPrime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/out/production/Student/greatestComomFactor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/out/production/Student/menuDesign.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/src/ConvertMoney.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/src/DateOffMonth.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/src/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/src/IsLeapYear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/src/IsPrime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/src/LinearEquationResolver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/src/RestangleProgram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/src/ShowTypes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/src/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/src/TurnTheNumberIntoLetters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/src/bmi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/src/displayOnehundredFirstPrime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/src/displayPrime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/src/greatestComomFactor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/Student/src/menuDesign.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/01.JavaOverView/index1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/02.ArraysAndMethod.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/out/production/02.ArraysAndMethod/AddElementToArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/out/production/02.ArraysAndMethod/CoutCharacterOffArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/out/production/02.ArraysAndMethod/CoutNumbpassAtExam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/out/production/02.ArraysAndMethod/FindIndexOfArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/out/production/02.ArraysAndMethod/FindMaxIndexOffMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/out/production/02.ArraysAndMethod/FindMaxValueOfArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/out/production/02.ArraysAndMethod/FindMindIndexOfArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/out/production/02.ArraysAndMethod/FindMindValueOffArrayTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/out/production/02.ArraysAndMethod/META-INF/02.ArraysAndMethod.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/out/production/02.ArraysAndMethod/PoolingArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/out/production/02.ArraysAndMethod/RemoveIndexOffArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/out/production/02.ArraysAndMethod/ReverseOfArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/out/production/02.ArraysAndMethod/SumDiagonalLineOffMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/out/production/02.ArraysAndMethod/SumOfColumnDetifine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/out/production/02.ArraysAndMethod/TemperatureConvert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/src/AddElementToArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/src/CoutCharacterOffArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/src/CoutNumbpassAtExam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/src/FindIndexOfArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/src/FindMaxIndexOffMatrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/src/FindMaxValueOfArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/src/FindMindIndexOfArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/src/FindMindValueOffArrayTwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/src/PoolingArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/src/RemoveIndexOffArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/src/ReverseOfArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/src/SumDiagonalLineOffMatrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/src/SumOfColumnDetifine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/02.ArraysAndMethod/src/TemperatureConvert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/03.Oop/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/03.Oop/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/03.Oop/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/03.Oop/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/03.Oop/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/03.Oop/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/03.Oop/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/03.Oop/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/03.Oop/03.Oop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/03.Oop/out/production/03.Oop/Fan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/03.Oop/out/production/03.Oop/META-INF/03.Oop.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/03.Oop/out/production/03.Oop/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/03.Oop/out/production/03.Oop/MyClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/03.Oop/out/production/03.Oop/QuadraticEquation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/03.Oop/out/production/03.Oop/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/03.Oop/out/production/03.Oop/StopWatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/03.Oop/src/Fan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/03.Oop/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/03.Oop/src/MyClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/03.Oop/src/QuadraticEquation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/03.Oop/src/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/03.Oop/src/StopWatch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/04.Inheritance.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/CircleAndCylinder/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/CircleAndCylinder/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/CircleAndCylinder/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/CircleAndCylinder/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/CircleAndCylinder/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/CircleAndCylinder/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/CircleAndCylinder/CircleAndCylinder.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/CircleAndCylinder/out/production/CircleAndCylinder/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/CircleAndCylinder/out/production/CircleAndCylinder/Cylinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/CircleAndCylinder/out/production/CircleAndCylinder/Operation2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/CircleAndCylinder/src/Operation2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/CircleAndCylinder/src/circle/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/CircleAndCylinder/src/circle/Cylinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/.idea/src.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/CircleComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/CircleComparatorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/CircleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/ComparableCircleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/ComparatorCircle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/Count.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/GeometricObjects.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/META-INF/04.Inheritance.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/Point/MoveablePoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/Point/Point2d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/Point/Point3d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/Point2/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/RectangleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/ResiableTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/Resizeable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/ShapeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/SquareTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/out/production/04.Inheritance/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/.idea/src.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/CircleComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/CircleComparatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/CircleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/ComparableCircleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/ComparatorCircle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/Count.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/GeometricObjects.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/Point/MoveablePoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/Point/Point2d.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/Point/Point3d.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/Point2/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/RectangleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/ResiableNewTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/ResiableTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/Resizeable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/ShapeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/SquareTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/04.Inheritance/src/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/05.AdvancedObjectOrientedDesign.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/out/production/05.AdvancedObjectOrientedDesign/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/out/production/05.AdvancedObjectOrientedDesign/CircleComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/out/production/05.AdvancedObjectOrientedDesign/CircleComparatorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/out/production/05.AdvancedObjectOrientedDesign/Colorable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/out/production/05.AdvancedObjectOrientedDesign/ColorableTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/out/production/05.AdvancedObjectOrientedDesign/META-INF/05.AdvancedObjectOrientedDesign.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/out/production/05.AdvancedObjectOrientedDesign/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/out/production/05.AdvancedObjectOrientedDesign/Resizeable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/out/production/05.AdvancedObjectOrientedDesign/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/out/production/05.AdvancedObjectOrientedDesign/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/out/production/05.AdvancedObjectOrientedDesign/animal/AbstractAndInterfaceTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/out/production/05.AdvancedObjectOrientedDesign/animal/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/out/production/05.AdvancedObjectOrientedDesign/animal/Chicken.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/out/production/05.AdvancedObjectOrientedDesign/animal/Tiger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/out/production/05.AdvancedObjectOrientedDesign/edible/Apple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/out/production/05.AdvancedObjectOrientedDesign/edible/Edible.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/out/production/05.AdvancedObjectOrientedDesign/edible/Fruit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/out/production/05.AdvancedObjectOrientedDesign/edible/Orange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/src/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/src/CircleComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/src/CircleComparatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/src/Colorable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/src/ColorableTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/src/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/src/Resizeable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/src/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/src/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/src/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/src/animal/AbstractAndInterfaceTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/src/animal/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/src/animal/Chicken.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/src/animal/Tiger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/src/edible/Apple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/src/edible/Edible.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/src/edible/Fruit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/src/edible/Orange.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/05.AdvancedObjectOrientedDesign/src/test2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/06.DataStructureAndAlgorithmBasic/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/06.DataStructureAndAlgorithmBasic/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/06.DataStructureAndAlgorithmBasic/src/MyAbstractList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/06.DataStructureAndAlgorithmBasic/src/MyArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/06.DataStructureAndAlgorithmBasic/src/MyLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/06.DataStructureAndAlgorithmBasic/src/MyLinkedListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/06.DataStructureAndAlgorithmBasic/src/MyList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/06.DataStructureAndAlgorithmBasic/src/MyList1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/06.DataStructureAndAlgorithmBasic/src/MyList2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/06.DataStructureAndAlgorithmBasic/src/MyListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/06.DataStructureAndAlgorithmBasic/src/MyListTwoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/06.DataStructureAndAlgorithmBasic/src/MylinkedList1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/06.DataStructureAndAlgorithmBasic/src/SimpleList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/06.DataStructureAndAlgorithmBasic/src/TestMyArraylist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/06.DataStructureAndAlgorithmBasic/src/TestMyLinkedList2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/07.CleanCodeAndRefactor/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/SystemTime/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/SystemTime/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/SystemTime/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/SystemTime/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/SystemTime/SystemTime.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/SystemTime/out/production/SystemTime/systemTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../02.WebBack-endDevelopment/SystemTime/src/systemTime.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/controllers/GreetingController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="4" column="23" selection-start-line="3" selection-start-column="9" selection-end-line="4" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/applicationContext.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/web/WEB-INF/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/views/index.jsp" />
+        <option value="$PROJECT_DIR$/src/controllers/GreetingController.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spring-greeting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-greeting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-greeting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-greeting" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-greeting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-greeting" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-greeting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-greeting" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-greeting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-greeting" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-greeting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-greeting" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-greeting" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553508413044" />
+    <property name="js.buildTools.grunt.grunt-cli.package" value="" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs.jest.jest_package" value="" />
+    <property name="nodejs.protractor.protractor_package" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\WorkSpace\CodeGym-Long\02.JavaBackEndDeplopment\14.MVC\spring-greeting\web\WEB-INF\views" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Local Server" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.16" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="spring-greeting:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_spring-greeting" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="59421" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="spring-greeting:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt">
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47f3c60d-1a0e-4861-a97c-820ba8d46181" name="Default Changelist" comment="" />
+      <created>1553499924740</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553499924740</updated>
+      <workItem from="1553499929890" duration="6440000" />
+      <workItem from="1553566948401" duration="6333000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12773000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17449665" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.43201134" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.3286119" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/spring-greeting.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="23" selection-start-line="3" selection-start-column="9" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/dispatcher-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/views/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controllers/GreetingController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>spring-greeting:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>spring-greeting</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Spring MVC-4.3.18.RELEASE</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

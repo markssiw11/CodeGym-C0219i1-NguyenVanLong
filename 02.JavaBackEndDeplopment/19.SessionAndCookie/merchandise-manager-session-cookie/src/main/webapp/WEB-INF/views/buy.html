@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>list buy</title>
+</head>
+<body>
+<h1>thanks for view my product</h1>
+<h2>Your Cart</h2>
+
+<table>
+    <tr>
+        <td>Id:</td>
+        <td th:text="${merchandise.getId()}"></td>
+    </tr>
+    <tr>
+        <td>Name:</td>
+        <td th:text="${merchandise.getName()}"></td>
+    </tr>
+    <tr>
+        <td>Price:</td>
+        <td th:text="${merchandise.getPrice()}"></td>
+    </tr>
+    <tr>
+        <td>Description:</td>
+        <td th:text="${merchandise.getDescription()}"></td>
+    </tr>
+    <tr>
+        <td>amount:</td>
+        <td>
+            <select name="amount">
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
+                <option value="7">7</option>
+            </select>
+        </td>
+    </tr>
+</table>
+</body>
+</html>

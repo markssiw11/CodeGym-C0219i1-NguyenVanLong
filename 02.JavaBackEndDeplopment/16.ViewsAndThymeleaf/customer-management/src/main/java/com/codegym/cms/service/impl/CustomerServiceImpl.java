@@ -1,11 +1,13 @@
 package com.codegym.cms.service.impl;
 
 import com.codegym.cms.model.Customer;
+import com.codegym.cms.model.Province;
 import com.codegym.cms.repository.CustomerRepository;
 import com.codegym.cms.service.CustomerService;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.Pageable;
 
-import java.util.List;
 
 public class CustomerServiceImpl implements CustomerService{
 
@@ -13,13 +15,23 @@ public class CustomerServiceImpl implements CustomerService{
     private CustomerRepository customerRepository;
 
     @Override
-    public List<Customer> findAll() {
-        return customerRepository.findAll();
+    public Page<Customer> findAllByFirstNameContaining(String firstName, Pageable pageable) {
+        return customerRepository.findAllByFirstNameContaining(firstName,pageable);
+    }
+
+    @Override
+    public Page<Customer> findAll(Pageable pageable) {
+        return customerRepository.findAll(pageable);
+    }
+
+    @Override
+    public Iterable<Customer> findAllByProvince(Province province) {
+        return customerRepository.findAllByProvince(province);
     }
 
     @Override
     public Customer findById(Long id) {
-        return customerRepository.findById(id);
+        return customerRepository.findOne(id);
     }
 
     @Override
@@ -29,6 +41,6 @@ public class CustomerServiceImpl implements CustomerService{
 
     @Override
     public void remove(Long id) {
-        customerRepository.remove(id);
+        customerRepository.delete(id);
     }
 }

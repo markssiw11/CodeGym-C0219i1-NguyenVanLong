@@ -15,16 +15,20 @@ public class SimpleDictionaryControllers {
     public String showSimpelDictionary(){
         return "index";
     }
-    @PostMapping("/stranslate")
+    @PostMapping("/translate")
     public String simpleDictionary(@RequestParam String english, Model modle ) {
         Map<String,String> dictionary = new HashMap<>();
         dictionary.put("hello","xin chao");
         dictionary.put("table","ban");
         dictionary.put("book","sach");
         dictionary.put("phone", "dien thoai");
-        if(english!=null) {
-            return "result";
+        dictionary.put("hai"," trau cho, bo ngua, suc vat");
+        String result = dictionary.get(english);
+
+        if(result==null) {
+            result="not foud";
         }
+        modle.addAttribute("result",result);
         return "result";
     }
 }

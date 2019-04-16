@@ -7,6 +7,10 @@
         <element id="directory" name="classes">
           <element id="module-output" name="pratice" />
         </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="E:/taglibs-standard-impl-1.2.5.jar" />
+          <element id="file-copy" path="E:/taglibs-standard-spec-1.2.5.jar" />
+        </element>
       </element>
     </root>
   </artifact>
